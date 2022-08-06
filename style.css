@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.dimension {
+  height: 1800px;
+}
+img {
+  width: 100%;
+  height: 20%;
+}
+div {
+  font-size: 20px;
+}
+.cities {
+  z-index: 1;
+  background-color: lightcoral;
+}
+section div {
+  background-color: lightyellow;
+  margin:10px;
+
+}
+.beijing {
+  background-color: lightblue;
+  position: sticky;
+  top: 0px;
+}
+.shanghai {
+  background-color: lightblue;
+  position: sticky;
+  top: 0px;
+}
+.guangzhou {
+  background-color: lightblue;
+  position: sticky;
+  top: 0px;
+}
